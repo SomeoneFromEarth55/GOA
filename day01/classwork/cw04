@@ -1,0 +1,6 @@
+number_1=int(input("number 1:"))
+number_2=int(input("number 2:"))
+print(number_1 + numnber_2)
+yes=("you are walking!🚶‍♂️")
+no=("you are standing!🧍‍♂️")
+ptint(yes)
